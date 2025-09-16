@@ -42,6 +42,11 @@
 </p>
 
 ---
+## 💡 About Me
+
+- 🚀 I love creating apps that make users' lives easier.
+- 🎮 Passionate about Android development and UI/UX design.
+- 🌱 Currently learning Flutter and improving my skills in mobile development.
 
 ## 📫 Contact
 
