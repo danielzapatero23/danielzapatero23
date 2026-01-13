@@ -29,13 +29,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielzapatero23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 ## 💡 About Me
