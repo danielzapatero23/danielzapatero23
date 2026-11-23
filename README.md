@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./terminal.svg" alt="danielzapatero23 terminal" width="100%">
+</p>
+
+<p align="center"><sub>Live feed: my latest public commits + new releases from my stack, refreshed daily by GitHub Actions.</sub></p>
+
 # Hi, I'm Daniel Zapatero 👋
 
 Welcome to my GitHub! I'm a junior software developer focused on ERP customization, Android development and automation. I enjoy building clean, functional software and turning ideas into working solutions.
